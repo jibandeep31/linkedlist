@@ -1,0 +1,6 @@
+projectKey=com.jiban:data-structures-linkedlist
+serverUrl=http://localhost:9010
+serverVersion=7.9.2.30863
+dashboardUrl=http://localhost:9010/dashboard?id=com.jiban%3Adata-structures-linkedlist
+ceTaskId=AXCBV2J-sf3tDeaOLWPv
+ceTaskUrl=http://localhost:9010/api/ce/task?id=AXCBV2J-sf3tDeaOLWPv
